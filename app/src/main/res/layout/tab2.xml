@@ -22,94 +22,55 @@
             <Button
                 android:id="@+id/button"
                 android:layout_width="match_parent"
-                android:text="Високий замок"
+                android:text="Cat cafe"
                 android:gravity="center_horizontal|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"
+                android:drawableLeft="@drawable/catcaffee"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentEnd="true" />
 
             <Button
                 android:id="@+id/button1"
                 android:layout_width="match_parent"
-                android:text="Мега оперний театр"
+                android:text="Криївка"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/opernuy"
+                android:drawableLeft="@drawable/kruivka"
                 android:paddingLeft="15dp" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="match_parent"
-                android:text="Ратуша"
+                android:text="мЕДЕЛІН"
                 android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ratusha" />
+                android:drawableLeft="@drawable/medelin" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_width="match_parent"
-                android:text="Високий замок"
+                android:text="На мамбеті"
                 android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
+                android:drawableLeft="@drawable/namambeti" />
 
             <Button
                 android:id="@+id/button4"
                 android:layout_width="match_parent"
-                android:text="Високий замок"
+                android:text="Палярня Чехович"
                 android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
+                android:drawableLeft="@drawable/paliarna" />
 
-            <Button
-                android:id="@+id/button5"
-                android:layout_width="match_parent"
-                android:text="Дуже Високий замок"
-                android:gravity="center|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
-
-            <Button
-                android:id="@+id/button6"
-                android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
-
-            <Button
-                android:id="@+id/button7"
-                android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
-
-            <Button
-                android:id="@+id/button8"
-                android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
         </LinearLayout>
     </ScrollView>
 

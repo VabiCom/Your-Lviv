@@ -32,7 +32,8 @@
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/zamok"
                 android:layout_alignParentBottom="true"
-                android:layout_alignParentEnd="true"/>
+                android:layout_alignParentEnd="true"
+                />
 
             <Button
                 android:id="@+id/button1"
@@ -42,7 +43,8 @@
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/opera_80"
-                android:paddingLeft="15dp"/>
+                android:paddingLeft="15dp"
+                />
 
             <Button
                 android:id="@+id/button2"
@@ -52,7 +54,8 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ratusha"/>
+                android:drawableLeft="@drawable/ratusha"
+                />
 
             <Button
                 android:id="@+id/button3"
@@ -62,7 +65,8 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/dim_80x60"/>
+                android:drawableLeft="@drawable/dim_80x60"
+                />
 
             <Button
                 android:id="@+id/button4"
@@ -72,7 +76,8 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/olga" />
+                android:drawableLeft="@drawable/olga"
+                />
 
             <Button
                 android:id="@+id/button5"
@@ -82,7 +87,8 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/cobor" />
+                android:drawableLeft="@drawable/cobor"
+                />
 
             <Button
                 android:id="@+id/button6"
@@ -92,7 +98,8 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/latt"/>
+                android:drawableLeft="@drawable/latt"
+                />
 
             <Button
                 android:id="@+id/button7"
@@ -103,7 +110,8 @@
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/apteka"
-                android:layout_weight="0.01" />
+                android:layout_weight="0.01"
+                />
 
         </LinearLayout>
     </ScrollView>

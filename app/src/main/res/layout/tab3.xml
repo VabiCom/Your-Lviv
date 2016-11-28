@@ -37,7 +37,7 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/opernuy"
+                android:drawableLeft="@drawable/opera_80"
                 android:paddingLeft="15dp" />
 
             <Button
