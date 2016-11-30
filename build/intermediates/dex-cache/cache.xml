@@ -3,84 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_fa4d91c12262f2d09fc0a0b7e80a68e0285c4b7a\classes.dex" />
+        sha1="e9527c998877bffe443d894a7fbc738223743bd5">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6ca284e1a8d5ee8f39a4f3d3ea67b54cd8b1861f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_9f073cb5312e6583d21c74671126181f8e74025c\classes.dex" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_cafe7e6d1b05c6b356ebed3b92f97ceaecdd998a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2c415aa84b46ab1125d43508dae88e67ea387270">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e92c2067dd57dc0a9f66b9b1527e27e8239b00a5\classes.dex" />
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_99303dfb3aa6ec8fe7b959843b48e80ea72ffb9e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_2a5770d465a71458131ecea5a206d22f80ebd6d0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_4a8f2b784854162a06f03c28afd467cc044d2493\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ec39e69bb72a9d9b636db57cd93650ff772c53a4\classes.dex" />
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_d16823d1e01047d6d3f505c9d2c83ffc33bd46f7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_d61697b0909e2e3b50840084a3f59d4475fc4add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_4ebce4c9b8ea9833f35cfba5df751268674c417c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8a718d16f4e51aa2724ea174fb4882d74e1ff3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b42b4217a8fddaed7c9342e4a3282d78a412c5">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_76ac1f574fcff4a67ce26dba5cdbc1ea36fd00f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_9e0341114de0f71ab946d2ac0439ca574f3121fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ea7656ff6694a08a18251d2a73256173c49c4a32\classes.dex" />
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5dd216d2a23773e248135f746c746b10e2ed6583\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_e2698037dda903ad25455f935d73bb81574e152a\classes.dex" />
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_7fab34b180be24707dcf7b2377b32f11a96b1e0e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_4a654dbb2bf5aed5b75723aaf0720f3ba2ec1c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7a30c1e7ec50cea78ba2bbc8c415e91860816c9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_194daee3a1f6e7eca29b8b0b1354045f3769bcc3\classes.dex" />
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e3279522f733725135bfe90d4ee766e1bd70ae9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_9bfa5e66db54b39657b80b3e550d52f964cd4225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_906724b65b81984066bb6e78f6ca2cab95deef42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_e91f061b03a106e0033845d02ea1fae2e6b6b27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_023bf10bd13fab31dc12147828d33349b1e5e4da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_fe89064cd0d10bcfba04d37b2e0535997bd4cf46\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -89,124 +179,34 @@
         optimize="true"
         revision="25.0.0"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_261b1a9cf90e65074aa1fdfd5149a6b2658a0025\classes.dex" />
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_261b1a9cf90e65074aa1fdfd5149a6b2658a0025\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_98cb5d0967e1d225d02857b37a5c8db8d0418dd3\classes.dex" />
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_8f83b2bb83d95283019f9392b2ca9ff34f659f14\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_20d7b1f4318257ad285d639a101742eef7db3536\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_04ee146c93666319c9e88db3a07e3c54c7554827\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_a2f1806a9b0476e814ed0fe7311cf81afc5aa034\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_ed74e33407f3d3e1e94c5b7c22529ddd5c335e5f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_3b5e695096a4bedaf24479dda98ca3830d46c92d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_7c2c2c8825c7447c19a272f9a54d719b2f14f014\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_fa0ca2ae12274346ba2c89dd1e1145fa9e3ebffe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4fb5f800fac54ca834167040e26bf1c04dddffcd">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_36393f06b50132f03f3629cc77c4ea1ae04892ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_d391f8803ce5f4e793adce3555f24043a349fe23\classes.dex" />
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_1d687d1708a067d22aedf78a6d920cbc723f9b2e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jar="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_48a5610a5d7e36154186dc523e57ad670de3be9d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_29588c966961ef7b1e0b265bbdd34337d87724c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\i1\Documents\GitHub\GuideLviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fdc754b8a4b8768bb1c6553a11beadb22150520a\classes.dex" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\i1\Documents\GitHub\Your-Lviv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_63990566958b16e72bc09fefb4b6e778ccdae267\classes.dex" />
     </item>
 
 </items>

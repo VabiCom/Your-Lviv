@@ -21,96 +21,99 @@
             <Button
                 android:id="@+id/button"
                 android:layout_width="match_parent"
-                android:text="Високий замок"
+                android:text="готель панорама"
                 android:gravity="center_horizontal|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"
+                android:drawableLeft="@drawable/panorama"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentEnd="true" />
 
             <Button
                 android:id="@+id/button1"
                 android:layout_width="match_parent"
-                android:text="Мега оперний театр"
+                android:text="готель жорж"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/opera_80"
+                android:drawableLeft="@drawable/jorg"
                 android:paddingLeft="15dp" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="match_parent"
-                android:text="Ратуша"
+                android:text="готель варшава"
                 android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ratusha" />
-
-            <Button
-                android:id="@+id/button3"
-                android:layout_width="match_parent"
-                android:text="Високий замок"
-                android:gravity="center|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
-
-            <Button
-                android:id="@+id/button4"
-                android:layout_width="match_parent"
-                android:text="Високий замок"
-                android:gravity="center|center_vertical"
-                android:textStyle="bold"
-                android:textSize="16sp"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
+                android:drawableLeft="@drawable/warshava" />
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="match_parent"
-                android:text="Дуже Високий замок"
+                android:text="готель LH Hotel and SPA"
                 android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1" />
+                android:drawableLeft="@drawable/lh1" />
 
             <Button
-                android:id="@+id/button6"
+                android:id="@+id/button3"
                 android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
+                android:text="готель купава"
+                android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
+                android:drawableLeft="@drawable/kupava" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:text="готель львів"
+                android:gravity="center|center_vertical"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/lviv111" />
 
             <Button
                 android:id="@+id/button7"
                 android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
+                android:text="   готель дністер"
+                android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
+                android:drawableLeft="@drawable/dnister"/>
 
             <Button
                 android:id="@+id/button8"
                 android:layout_width="match_parent"
-                android:text="   Високий замок"
-                android:gravity="left|center_vertical"
+                android:text="   готель леополіс"
+                android:gravity="center|center_vertical"
                 android:textStyle="bold"
                 android:textSize="16sp"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/creenshot_1"/>
+                android:drawableLeft="@drawable/leo"/>
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:text="ГОТЕЛЬ ВЕНА "
+                android:gravity="center|center_vertical"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/vena"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true" />
+
         </LinearLayout>
     </ScrollView>
+
 
 
 </RelativeLayout>
