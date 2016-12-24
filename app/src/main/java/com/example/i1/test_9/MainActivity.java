@@ -19,6 +19,8 @@ import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
 
 
+
+
 public class MainActivity extends AppCompatActivity {
 
     /**
@@ -147,6 +149,10 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     Tab_3 tab3 = new Tab_3();
                     return tab3;
+                case 3:
+                    Tab_4 activity_maps2 = new Tab_4();
+                    return activity_maps2;
+
             }
             return null;
         }
@@ -154,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public int getCount() {
 
-            return 3;
+            return 4;
         }
 
         @Override
@@ -166,6 +172,8 @@ public class MainActivity extends AppCompatActivity {
                     return "Кафе";
                 case 2:
                     return "Готелі";
+                case 3:
+                    return "Карта";
             }
             return null;
         }

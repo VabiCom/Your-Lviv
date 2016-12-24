@@ -29,17 +29,17 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@mipmap/ic_launcher"
                     android:id="@+id/imageView"
-                    android:minHeight="80dp"
-                    android:minWidth="80dp"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
                     android:paddingTop="10dp"
                     android:paddingLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    app:srcCompat="@drawable/ycpenska_cepkva" />
 
                 <TextView
-                    android:text="Успенська церква suahdgiahfiuahfdiughqeaiuvbheiuhvoiuytytttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+                    android:text="Успенська церква у Львові, також Ставропігійна Церква "
                     android:layout_width="match_parent"
                     android:layout_alignParentTop="true"
                     android:layout_alignParentStart="true"
@@ -48,12 +48,14 @@
                     android:layout_marginRight="10dp"
                     android:layout_margin="10dp"
                     android:textSize="22sp"
-                    android:layout_height="80dp" />
+                    android:layout_height="107dp" />
 
             </TableRow>
 
             <TextView
-                android:text="iluhqouifyhvwqeor8y7gf8wq7erg82y4gr8792y45g8fuhwer8y7hvw8047vh82eujgf872egfhwero8fh08ygf8uwheofiguhw089e7yrgpuasfdpgious-9g"
+                android:text="Успіння Пресвятої Богородиці — храм, збудований у 1591–1629 рр. за планом Павла Римлянина, за участю Войцеха Капіноса і Амвросія Прихильного, на замовлення Львівського братства. Побудований Успенським братством храм мав трьох своїх попередників. Перша Успенська церква існувала, можливо, ще за княжих часів і була спалена під час нападу на Львів польських феодалів у 1340 р. Друга, мурована церква, яка вперше згадується під 1421 р., проіснувала до пожежі 1527 р. Зруйнований пожежею храм відбудовує у 1547–1559 р. архітектор Петро Італієць — уродженець міста Лугано. Кошти на його спорудження дав, крім місцевого населення, молдавський господар Олександр Лопушанин (Лопушняну) та його дружина Роксана: в пам'ять про це церкву називали Волоською. Вона також недовго простояла, згорівши при пожежі 1571 р. Схематичне зображення цього храму збереглось на печатці Ставропігійського братства.
+
+3 січня 1584 р. львівський латинський арцибіскуп Ян Димітр Соліковський з прихильниками напав на храм, вигнав з нього парафіян, зневажив священика, запечатав церкву; так хотів примусити братство святкувати новий григоріянський календар."
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView2"

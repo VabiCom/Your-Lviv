@@ -29,17 +29,17 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@mipmap/ic_launcher"
                     android:id="@+id/imageView"
-                    android:minHeight="80dp"
-                    android:minWidth="80dp"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
                     android:paddingTop="10dp"
                     android:paddingLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    app:srcCompat="@drawable/paliarna" />
 
                 <TextView
-                    android:text="Будинок вчених suahdgiahfiuahfdiughqeaiuvbheiuhvoiuytytttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+                    android:text="Палярня Чехович було створена для того, щоб познайомити Вас зі "
                     android:layout_width="match_parent"
                     android:layout_alignParentTop="true"
                     android:layout_alignParentStart="true"
@@ -53,7 +53,9 @@
             </TableRow>
 
             <TextView
-                android:text="iluhqouifyhvwqeor8y7gf8wq7erg82y4gr8792y45g8fuhwer8y7hvw8047vh82eujgf872egfhwero8fh08ygf8uwheofiguhw089e7yrgpuasfdpgious-9g"
+                android:text="світом кав Specialty.Ми працюємо з високоякісною кавою, і для нас є пріоритетом її натуральний смак.При обсмаженні кави ми враховуємо всі деталі і використовуємо не тільки професійні навички, які розвивали за довго до того, як зрозуміли, що ми готові відкрити своє виробництво кави, але й найкраще обладнання, яке доступне наринку.
+В Палярні Чехович, ви знайдете не тільки свіжу високоякіснукаву, але й обладнання для її приготування.
+Наша ціль навчити людей пити лише найкращу каву, тому баріста Палярні Чехович з задоволенням поділяться досвідом заварювання кави."
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView2"
