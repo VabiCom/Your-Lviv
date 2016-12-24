@@ -13,7 +13,6 @@ import android.support.v4.view.ViewPager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
@@ -166,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
                 case 1:
                     return "Кафе";
                 case 2:
-                    return "Відпочинок";
+                    return "Готелі";
             }
             return null;
         }

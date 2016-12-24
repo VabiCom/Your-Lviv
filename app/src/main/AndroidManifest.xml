@@ -1,27 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.i1.test_9" >
+    package="com.example.i1.test_9">
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/vabicommm"
         android:label="Your Lviv"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
             android:label="Your Lviv"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
-     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".OperaActivity"
+            android:label="@string/title_activity_opera"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CastleActivity"
+            android:label="@string/title_activity_castle"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RatushaActivity"
+            android:label="@string/title_activity_ratusha"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HomeTeacherActivity"
+            android:label="@string/title_activity_home_teacher"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".OlgaAndElizavetaActivity"
+            android:label="@string/title_activity_olga_and_elizaveta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AssumpytionChurchActivity"
+            android:label="@string/title_activity_assumpytion_church"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LatinCathdralActivity"
+            android:label="@string/title_activity_latin_cathdral"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AptekaMuseumActivity"
+            android:label="@string/title_activity_apteka_museum"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CatCafeActivity"
+            android:label="@string/title_activity_cat_cafe"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KruivkaActivity"
+            android:label="@string/title_activity_kruivka"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MedelinActivity"
+            android:label="@string/title_activity_medelin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PolarnaActivity"
+            android:label="@string/title_activity_polarna"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BambetiActivity"
+            android:label="@string/title_activity_bambeti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PanoramaActivity"
+            android:label="@string/title_activity_panorama"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GeorgeActivity"
+            android:label="@string/title_activity_george"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WarsawActivity"
+            android:label="@string/title_activity_warsaw"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Lh_HotelActivity"
+            android:label="@string/title_activity_lh__hotel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KupavaActivity"
+            android:label="@string/title_activity_kupava"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LvivActivity"
+            android:label="@string/title_activity_lviv"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DnisterActivity"
+            android:label="@string/title_activity_dnister"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LeopolisActivity"
+            android:label="@string/title_activity_leopolis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VenaActivity"
+            android:label="@string/title_activity_vena"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

@@ -33,7 +33,7 @@
                 android:drawableLeft="@drawable/zamok"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentEnd="true"
-                />
+                android:onClick="sendMessage"/>
 
             <Button
                 android:id="@+id/button1"

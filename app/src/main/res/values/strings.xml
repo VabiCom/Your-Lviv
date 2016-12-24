@@ -35,7 +35,28 @@
     <string name="card_back_title">Angry Red Android</string>
     <string name="card_back_description"><![CDATA[Lorem ipsum dolor sit]]></string>
     <string name="lorem_ipsum"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et magna ut erat elementum cursus in quis ipsum. Nam faucibus ultrices eros, vel tempor leo semper sit amet. Duis magna quam, congue vitae interdum nec, condimentum ut lectus. Sed commodo venenatis eros a dignissim. Nunc adipiscing turpis nec magna venenatis at ultricies ipsum bibendum. Sed volutpat urna quis nisi vulputate egestas. Etiam eu dui a enim lacinia dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n\nPhasellus orci mi, eleifend nec congue id, volutpat at neque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer semper velit vel leo rutrum sed fermentum elit porta.]]></string>
+    <string name="title_activity_ratusha">Ратуша</string>
+    <string name="title_activity_opera">Оперний театр</string>
+    <string name="title_activity_castle">Високий замок</string>
+    <string name="title_activity_home_teacher">Дім вчених</string>
+    <string name="title_activity_olga_and_elizaveta">Церква святих Ольги а Єлизавети</string>
+    <string name="title_activity_assumpytion_church">Успенська церква</string>
+    <string name="title_activity_latin_cathdral">Латинський собор</string>
+    <string name="title_activity_apteka_museum">Аптека-музей</string>
+    <string name="title_activity_cat_cafe">Cat cafe</string>
+    <string name="title_activity_kruivka">Криївка</string>
+    <string name="title_activity_medelin">Меделін</string>
+    <string name="title_activity_polarna">Полярна Чехова</string>
+    <string name="title_activity_bambeti">На Бамбеті</string>
+    <string name="title_activity_panorama">Готель \"Панорама\"</string>
+    <string name="title_activity_george">Готель \"Жорж\"</string>
+    <string name="title_activity_warsaw">Готель \"Варшава\"</string>
+    <string name="title_activity_lh__hotel">Готель \"L\'h Hotel\"</string>
+    <string name="title_activity_kupava">Готель \"Купава\"</string>
+    <string name="title_activity_lviv">Готель \"Львів\"</string>
+    <string name="title_activity_dnister">Готель \"Дністер\"</string>
+    <string name="title_activity_leopolis">Готель \"Leopolis\"</string>
+    <string name="title_activity_vena">Готель \"Вена\"</string>
 
 
-
-    </resources>
+</resources>
