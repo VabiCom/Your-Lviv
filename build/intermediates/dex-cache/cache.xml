@@ -3,651 +3,651 @@
 
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_069a8189853763b5d84d475bd9c421be155cdd1f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_ebbcddb01fb065be7d1e610d8d4a1b361e229677\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1cfd546983820f460b005cb3083348890cd00c72\classes.dex" />
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1cfd546983820f460b005cb3083348890cd00c72\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0142737c385c8c3e2127bf0db51ecdcfc497c70c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_17516188bb1cc970dee2d8df320acbe1434d9c80\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_f3874e9ee7c1721c13e3a95d9446abb3b61d3fb3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_0597d556b970a49e23eb8d83bdc6e5c31f868df9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_12a2f7768d14aafa6f44a0115bc0c431d51ac610\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e56f31b23ddb067f95f01255295167db7c798612">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_141d94418fd932bcdfa86dc66003be26d6ac8721\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_add204bfdfc0cde245ba610ff4cb46d105484f05\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_62fa9d50b731fcd70136e2b552fa2be642bafbd3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5028e33d9bb3b72774833aebac85830448ac5588\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_f87b75dbe8bdf94a7a59d7573e15161aceea65a0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_9e0bb4e82211c5a6b1f191b217fb5d00823fbaed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_32f59c2b29d3e292594763958ae96ba499fdbd94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_786a8fb352e5ab9907cff28c947abecde63b3982\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5787a120c7a042aeae031d1a5c98d89252568667">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da8982002033a89d1475cefb3885a6a1d9215996\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_5c02ddd18e9a99205d7f7fd5a551fac42a8a44e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_85d41051184b1a9940415c94d928df1e33885a7f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_622b534b18f1cb0df5bb9497d9ad70cb36a5213a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_53765eadbc4ad5df504f549c6319846b15fd6d53\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_6ac2aac575d45f916f078592d9793b5e006fb84d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_4700fe7669c735113dead771d606fe091b0543b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_6d3ad3f5f89ff89b138c0062b9d34cb809ef4c10\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_abe1e3cdb2bec6ed771ccb4deef1bee32dd02ace\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3d0b5f3ae2f748775e6a0504207b9e303ff37b31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_186ee8c82c9c83103c8f9f7afe91bb014656b1a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b604867f83040ac12890af0792a723f8bf08803d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_51cddee739d53f542e5a1991b8dc38374c5e96e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a9b26b12159944b50f2c69e2dd0b9c95d1adc17b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_3ead1829367c34112010ff2f19acccb784ee08d8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_54c13e5025cf7a65ea0d199e2d06985fe4d90dd3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_588080f54912208a465d29f212a846c31c7540d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_81bc964002f65ee48847a7743436e85df900bb59\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_9e1baec8ebfa78d5af9a042a6f2a864c2331ebbc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_5c65caa1d3738b93c44f7fc74c1614f9ef6c337d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_5c2dc340283f2b27a8ec2e47adc3172ea1cba0d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_e9c15488fdfe43d611b00d6a1d7e1fba61926862\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_c28186952d659375fd412a1e66b038e6a6a34c7b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_a6ef2400c15057b3f72d19779123282fbcf0e627\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_5b24a3a58a1aebf47d17a07b253c34994267437f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6a6350546cd65708578816640f56ce36b8079ba6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_f742fced81c0c8bb8345cb029be5ecb3f418d50f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0be9e4c698e2db722421614d465c925221d728aa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_a12e8580deec90e800ed94b93b01fb9edc841953\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="188695acb9bcb954cc064b03ea95f2ab700c1489">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0736556f724443a33a0c10a71c1fdabe40242c67\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_236aad638f0a0fffb693275f5161cd2ded9212d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_d2bcf218ac56a1f6a091dea86bc388c764266c5b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_c2a6b5b92db718cddb267346ce396645e3a9d80f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_5e53d4eac3d1aa793a14f08b6ac3cb3752bc8817\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_10a3e362309ad93e73aa588dba9fc84205b0c0c8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_184d60cb6d775851685cf296170253cb08f14f4c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_b10f2151dbfa4e3109ca03723865595aa264bf73\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_c7bf67bd945b99abe066749ce54e9d26d1b7dd57\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_2f2e7ea7c01bf404a18bf2a035fb284094fad663\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_df94bf7079ed38bdb2459d6e3f0947489ab26609\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_1803fd2a567231c8e50456bf95784a8f72d61305\classes.dex" />
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_fcad87cab06449dbc5bd281f7fe3bbf969289dd8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_d59d122ea88e0d6ba5a2fe708d0327d1bfda5294\classes.dex" />
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_52c1e45fee49a5b360e9f47f58ce2872b32b7a95\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_7947a563d4655ce053f1d163b6beaf39d279e674\classes.dex" />
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_76f52e42edc30dfddd397e1a07a0b4f6659de1ea\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_0bf78d8febb9c9d1975197bdac19b88c71d72416\classes.dex" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_92bc774a8fcd379536bb957cc539daf003b675f7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_3cf3b1afa1f26fdb995db3cf04b1da841eb2b29c\classes.dex" />
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_e120052fdb1a61610cfa3a5d0c9e6a5de3d4b748\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_c9979598b2dd2e366a4eb77bc6ac036cb4c786c3\classes.dex" />
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_8ee2dc6bcc6b68c6f7cffc25b39b473913661613\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2d6f241f4781f4f6e599fd550e3e34a9060edcc1\classes.dex" />
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_3f4033b901f9aae68cc6db75008eca2ae53ea763\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_76944130b7264a25034e8434f3337e7240631647\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_2a33a987587772d1a74b23a0418c317657eddf34\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_e3c4f526999c6d39a795ba5bcf405ca37f15cddc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_4b1f0ae6d0e2ee10dab027ec5532fbb9bd269589\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_959609f345ec1b44347131e7ce14f259913bd3be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_2a224be5afa711c2ea4dba358d85bb37fa8808ea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_9589b19937cb9f29f83d8b34ffe2c6ce97f1d5bb\classes.dex" />
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_82c2773e403f81b7a838170db328d6ff89548fbe\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_c584936e15f97c26d265a2810df6694fd384583b\classes.dex" />
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_c34927a601562a3570a53c61fc56419493c4b099\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Your-Lviv-with_maps\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_ec44133e31a165ff0bae01e4e7d6000c0e329292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a42d9d238cc25472a927ec9f9f795337119cd08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_c40adf54ac64d081d49427fe856b6e6cfc1fb741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="394a748c7dbbcba9d931c07ac67014ddd5e0cd90">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7704a4eee124331f8d27285e8286e7487da744c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_b3b89df82c2e269eca9e60eab1c9170fc3e34967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_dc68a2b7bc587fd2ee178960f9dd59dd21b7d230\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_39bb6215008d91b6e79d6cd06aefef845d7daea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_dd25d0e64814dfe46a1c6de37886bc2ac206471a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_906d5ce6fddde5ba012832e6f253ad6597eb0f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_75b0c42bb359f112fe0883bd44362f49687f9c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_c03e52d1ee8d1fbbb0588a0310a2f055210b8ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_bcf8991da0f36e09f904ce70809507c21e4109b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_b43f5a9d6e01cb4c3760f6bcaecb228bc31f3132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_4679c0b7ecc5ef36509529232cc80a6917fbd51e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_3d0e8e65644d25d5688f63f0044cb39573d06115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_936ad670983717d93be624fb24da7c52b17df06f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_478abb587f5b82ff9385ab865b2c7325eeb873c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_6a39f0f39e3274fc45f9c821ed0d29eea447ad34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_f5180b5336496f94585b48b58fbf61710debb67b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_93ae746fc4127421c73b536bf0eaeb2f559268ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_9be828573e34268f86043f40a9188eb48af86dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_92b187a3f54330eb6a30da2f226781ad49d2a15c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_e35e1ec363027632868ba8a167b81c79c34b1363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_a5027ad939ed1cd10609ad418d72e88fdb7b2534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c37080d491d500772287fb78f389510e93d3a559">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_34447eef6ae67847b8ea9f55e6b0e377ec9afa29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_3377b545de6d1180c0c173c335a813f3ed71f0f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_686cd8bc71485874c18c56fd12eb2fcbd73b378c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_7e10947c72822e1b48bc17296c998e8dd09f54b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_d07eb08f847b4ad01bae7aa20438903ca5806ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_ae1e67b4854373c93a8c6cbd1e37733c7a4502e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_139c0a4ff51f8aeefbc9211a326330e8db2453a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ae9da626b189d46fcfb336ae0b8fd972b28bf092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_756ff84a5de60abd56507deb03a74a191aeb5e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_cfc9ecddd219c33713a70f45d681e2bf2c8636d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_1e0d1955edbbe42246c9ee224fac7831b4a43955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_4f41185b1862a95b4446414cdf2d1afe7297a90f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_572561a206cf6b2d7993d01b217b560e7819eee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_ba1853b4a5ba78c6697e12486edea376a7c78dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_576755ce08b03af93abc7891fd1ff2bf8c143f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_c102fea6d2d453701cdeddf4f89a03972964053b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_c46880be44bb9602dadb09504ed02422fd975726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_81bea3628b734a915d1442fb335933055465f3e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_44b15768fb5c0d5cbc27849cb9431ce218fdcc1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f2f1a3badd352fab2db33cc092f71eb38abe0229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_4b6499a38562522ca336e3e829ead8c93f0557e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="D:\Your-Lviv-with_maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_8c0c95359de40ad50534cd8563f0292e3b8c69d4\classes.dex" />
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_6500abc2d641f9a2a02a92401fc920e3b2aed7a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_81bfe24e31625314cd19b9985ec463688b40c957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3d721bd172eb7dcae2ce6138a0006038d41271a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_c6d9ea82ff0274f329c1ad3a4b81b894a02587b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_e1dbf329900ed08d284f19a9ff80634a29ef1a24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_86c791722de40872cc348019a13a4a07cf71286e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_324f0090cadaad27342aeb4c6ad1de1d86f4a442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_a2e0ee3f7d4a2c9ba32add5bc5d80abe9066e940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_2107165abe9b5cbcd4b0f0d35168c8f63341d3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_850728bfa724a1b6dda8a601dcf73809b0746c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_54773a3dcbe71c56e767c9f0b8c2a8af89150a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_97df2a5472d9b4628f3d2b95e4713675d85c3b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_12cac775b3dd92d517f30b3c535a5621c06525bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_ad983ed77c959fe74ef93450f29998910bc48b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_179748da45492eaa99754bb9a0e3c440c958d2f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_b0c939cda340f8ad802516c3b6add374cfd04a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Your-Lviv-master1-master\Your-Lviv-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_64d51dd7455279051c996235bb72c2c2a2e446e4\classes.dex" />
     </item>
 
 </items>

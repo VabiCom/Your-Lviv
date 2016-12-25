@@ -38,6 +38,7 @@
                     android:paddingLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginLeft="10dp"
+
                     app:srcCompat="@drawable/aapteka1" />
 
                 <TextView
@@ -50,7 +51,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_margin="10dp"
                     android:textSize="22sp"
-                    android:textColor="#adadad"
+                    android:textColor="#e8dfdf"
                     android:minHeight="110dp" />
 
             </TableRow>
@@ -63,7 +64,7 @@
                 android:textSize="22sp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:textColor="#adadad" />
+                android:textColor="#e8dfdf" />
 
         </LinearLayout>
     </ScrollView>

@@ -47,6 +47,7 @@
                     android:id="@+id/textView"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
+                    android:textColor="#e8dfdf"
                     android:layout_margin="10dp"
                     android:textSize="22sp"
                     android:layout_height="100dp" />
@@ -61,6 +62,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView2"
+                android:textColor="#e8dfdf"
                 android:textSize="22sp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp" />
